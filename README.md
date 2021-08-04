@@ -1,0 +1,2 @@
+# sliderComponent
+simple slider component
