@@ -1,2 +1,2 @@
 # sliderComponent
-simple slider component
+Simple Slider Component
